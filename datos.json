@@ -78,5 +78,10 @@
     "nombre": "Mario Bros",
     "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident libero distinctio reprehenderit sapiente ratione, facere fuga saepe culpa voluptas autem, veniam, sequi ab sint est pariatur perspiciatis! Tempora, tenetur repellendus.",
     "imagen": "imagenes/mariobros.jpg"
+  },
+  {
+    "nombre": "Fallout",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident libero distinctio reprehenderit sapiente ratione, facere fuga saepe culpa voluptas autem, veniam, sequi ab sint est pariatur perspiciatis! Tempora, tenetur repellendus.",
+    "imagen": "imagenes/fallout.jpg"
   }
 ]
