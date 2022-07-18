@@ -1,0 +1,82 @@
+[
+  {
+    "nombre": "Minecraft",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident libero distinctio reprehenderit sapiente ratione, facere fuga saepe culpa voluptas autem, veniam, sequi ab sint est pariatur perspiciatis! Tempora, tenetur repellendus.",
+    "imagen": "imagenes/minecraft.jpg"
+  },
+  {
+    "nombre": "Pou",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident libero distinctio reprehenderit sapiente ratione, facere fuga saepe culpa voluptas autem, veniam, sequi ab sint est pariatur perspiciatis! Tempora, tenetur repellendus.",
+    "imagen": "imagenes/pou.jpg"
+  },
+  {
+    "nombre": "Free Fire",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident libero distinctio reprehenderit sapiente ratione, facere fuga saepe culpa voluptas autem, veniam, sequi ab sint est pariatur perspiciatis! Tempora, tenetur repellendus.",
+    "imagen": "imagenes/freefire.jpg"
+  },
+  {
+    "nombre": "Terraria",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident libero distinctio reprehenderit sapiente ratione, facere fuga saepe culpa voluptas autem, veniam, sequi ab sint est pariatur perspiciatis! Tempora, tenetur repellendus.",
+    "imagen": "imagenes/terraria.jpg"
+  },
+  {
+    "nombre": "Call of Duty",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident libero distinctio reprehenderit sapiente ratione, facere fuga saepe culpa voluptas autem, veniam, sequi ab sint est pariatur perspiciatis! Tempora, tenetur repellendus.",
+    "imagen": "imagenes/callofduty.jpg"
+  },
+  {
+    "nombre": "Far Cry",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident libero distinctio reprehenderit sapiente ratione, facere fuga saepe culpa voluptas autem, veniam, sequi ab sint est pariatur perspiciatis! Tempora, tenetur repellendus.",
+    "imagen": "imagenes/farcry.jpg"
+  },
+  {
+    "nombre": "God of War",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident libero distinctio reprehenderit sapiente ratione, facere fuga saepe culpa voluptas autem, veniam, sequi ab sint est pariatur perspiciatis! Tempora, tenetur repellendus.",
+    "imagen": "imagenes/godofwar.jpg"
+  },
+  {
+    "nombre": "Sword Master Story",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident libero distinctio reprehenderit sapiente ratione, facere fuga saepe culpa voluptas autem, veniam, sequi ab sint est pariatur perspiciatis! Tempora, tenetur repellendus.",
+    "imagen": "imagenes/swordmasterstory.jpg"
+  },
+  {
+    "nombre": "Halo",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident libero distinctio reprehenderit sapiente ratione, facere fuga saepe culpa voluptas autem, veniam, sequi ab sint est pariatur perspiciatis! Tempora, tenetur repellendus.",
+    "imagen": "imagenes/halo.jpg"
+  },
+  {
+    "nombre": "Grand Theft Auto",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident libero distinctio reprehenderit sapiente ratione, facere fuga saepe culpa voluptas autem, veniam, sequi ab sint est pariatur perspiciatis! Tempora, tenetur repellendus.",
+    "imagen": "imagenes/grandtheftauto.jpg"
+  },
+  {
+    "nombre": "Roblox",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident libero distinctio reprehenderit sapiente ratione, facere fuga saepe culpa voluptas autem, veniam, sequi ab sint est pariatur perspiciatis! Tempora, tenetur repellendus.",
+    "imagen": "imagenes/roblox.jpg"
+  },
+  {
+    "nombre": "Five Nights at Freddy's",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident libero distinctio reprehenderit sapiente ratione, facere fuga saepe culpa voluptas autem, veniam, sequi ab sint est pariatur perspiciatis! Tempora, tenetur repellendus.",
+    "imagen": "imagenes/FNAF.jpg"
+  },
+  {
+    "nombre": "Pokémon",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident libero distinctio reprehenderit sapiente ratione, facere fuga saepe culpa voluptas autem, veniam, sequi ab sint est pariatur perspiciatis! Tempora, tenetur repellendus.",
+    "imagen": "imagenes/pokemon.jpg"
+  },
+  {
+    "nombre": "Sonic",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident libero distinctio reprehenderit sapiente ratione, facere fuga saepe culpa voluptas autem, veniam, sequi ab sint est pariatur perspiciatis! Tempora, tenetur repellendus.",
+    "imagen": "imagenes/sonic.jpg"
+  },
+  {
+    "nombre": "Metal Slug",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident libero distinctio reprehenderit sapiente ratione, facere fuga saepe culpa voluptas autem, veniam, sequi ab sint est pariatur perspiciatis! Tempora, tenetur repellendus.",
+    "imagen": "imagenes/metalslug.jpg"
+  },
+  {
+    "nombre": "Mario Bros",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident libero distinctio reprehenderit sapiente ratione, facere fuga saepe culpa voluptas autem, veniam, sequi ab sint est pariatur perspiciatis! Tempora, tenetur repellendus.",
+    "imagen": "imagenes/mariobros.jpg"
+  }
+]
